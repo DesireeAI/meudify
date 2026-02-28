@@ -1,6 +1,6 @@
 x-shared-env: &shared-api-worker-env
 services:
-  # Init container to fix permissions
+  # Init container to fix permission
   init_permissions:
     image: busybox:latest
     command:
