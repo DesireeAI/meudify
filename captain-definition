@@ -1,0 +1,6 @@
+{
+  "schemaVersion": 2,
+  "dockerCompose": {
+    "filePath": "docker-compose.yaml"
+  }
+}
